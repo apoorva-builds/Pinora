@@ -1,4 +1,4 @@
-# Pinora
+# Pinora By Apoorva Kalki
 Pinora is a calm productivity app built with Python and Tkinter.
 
 It helps users organize their study sessions with a clean workspace for notes, tasks, focus, and reflection.
@@ -13,4 +13,4 @@ It helps users organize their study sessions with a clean workspace for notes, t
 - Date-based daily summary popup
 - Auto-save data
 
-python3 main.py
+
